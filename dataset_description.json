@@ -8,9 +8,10 @@
         "Stefan Appelhoff",
         "Alexandre Gramfort",
         "Mainak Jas",
-        "Richard Höchenberger"
+        "Richard H\u00f6chenberger"
     ],
     "ReferencesAndLinks": [
         "https://mne.tools/stable/overview/datasets_index.html#somatosensory"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003104.v1.0.0"
 }
